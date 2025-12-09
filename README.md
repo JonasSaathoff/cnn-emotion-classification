@@ -2,7 +2,7 @@
 
 Project for Software Development Practical: Computer Vision and Deep Learning @ LMU Munich in SS2025. It demonstrates (real-time) facial emotion recognition using a custom CNN architecture with ResNet-style blocks and Squeeze-and-Excitation (SE) channel attention.
 
-📄 Read the report [here]([https://github.com/JonasSaathoff/cnn-emotion-classification/blob/main/report.pdf])
+📄 Read the report [here](https://github.com/JonasSaathoff/cnn-emotion-classification/blob/main/report.pdf)
 
 ## Overview
 
